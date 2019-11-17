@@ -1,2 +1,4 @@
-# mustythoughts_plus
-Supplementary materials for my blog: www.mustythoughts.com
+# Mustythoughts+
+
+
+This repository contains supplementary materials for my blog: www.mustythoughts.com .
